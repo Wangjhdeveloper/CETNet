@@ -2,7 +2,7 @@
 This repo provides training &amp; inference code for paper: [Cross-Enhancement Transformer for Action Segmentation](https://arxiv.org/abs/2205.09445.pdf) 
 
 ## Enviroment
-Pytorch == 1.6.0, torchvision == 0.7.0, python == 3.7, CUDA=10.2
+Pytorch == 1.5.0, torchvision == 0.6.0, python == 3.7.3, CUDA=10.1
 
 ## Reproduce our results
 ```
